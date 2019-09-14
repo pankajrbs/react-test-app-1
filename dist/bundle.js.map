@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["../src/index.js","../src/app.js"],"sourcesContent":["import app from './app';\r\n\r\napp();\r\n","import answer from 'the-answer';\r\n\r\nexport default () => {\r\n  console.log(`the answer is ${answer}`);\r\n};\r\n"],"names":["app","console","log"],"mappings":"2PAEAA,CCAe,UAAM,CACnBC,OAAO,CAACC,GAARD,4BAAAA,CADF,CDAAD"}
